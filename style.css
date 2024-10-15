@@ -1,0 +1,77 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 90px;
+}
+.all h3{
+    color: rgb(6, 6, 57);
+
+}
+.theoffer {
+    font-size: 9px ;
+    color: rgb(85, 85, 86);
+}
+.fifty{
+    font-size: 10px;
+}
+.circle{
+    border-radius: 50%;
+    background-color: rgb(5, 138, 101);
+    width: 8px;
+    height: 8px;
+    margin:11px;
+    
+}
+.textwithcircle{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+.conteiner {
+    border-radius: 11px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    width: 650px;
+    padding: 20px;
+    box-shadow: 0 7px 10px 0 rgba(94, 77, 227, 0.2);
+}
+.all {
+    display: block;
+    unicode-bidi: isolate;
+}
+.btn1{
+    color: white;
+    border-radius: 17px;
+    border: none;
+    background-color: rgb(6, 6, 57);
+    padding: 3px;
+}
+.number1{
+    text-decoration: line-through;
+}
+.number2{
+    font-size: 40px;
+}
+.btn2{
+    border-radius: 5px;
+    color: white;
+    border: none;
+    background-color: rgba(51, 51, 223, 0.926);
+    width: 300px;
+    height: 40px;
+}
+.last1, .last2  {
+    background-color: white;
+    border-radius: 5px;
+}
+.imga{
+    height: 25px;
+    margin: 3px;
+    width: 40px;
+}
+    
